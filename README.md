@@ -1,11 +1,21 @@
-## Welcome! Use and Share Answers from This Repository
+# 🧠 Grok Academy Answers
 
-This repository is designed for public use—feel free to browse, copy, and paste any answers or content you find helpful.  
-You are welcome to use these answers in your own projects, discussions, or anywhere else you need them.
+This repository contains answers and solutions to various **Grok Academy** courses. It is intended as a reference and study tool for students who are learning to code and want help understanding how to solve different problems on Grok.
 
-**How to Use:**
-- Browse the repository for answers or examples.
-- Copy and paste any content as needed.
-- Contributions and suggestions are welcome!
+> ⚠️ **This repository is _not_ meant to be cloned and submitted directly.**  
+> You should only copy and paste individual answers into your Grok Academy account after understanding how the solution works.
 
-If you have questions or want to contribute your own answers, feel free to open an issue or pull request.
+---
+
+## 📚 What's Inside
+
+- Answers to several Grok courses (e.g. Intro to Python, Micro:bit).
+- For block-based courses, where code cannot be easily copied, **screenshots** of the correct blocks have been added instead.
+
+---
+
+## ❗ Disclaimer
+
+- This is meant to help students learn — not to encourage plagiarism.
+- Try to read and understand the code before using it.
+- Respect your school or teacher's academic policies.
