@@ -12,6 +12,7 @@ This repository contains answers and solutions to various **Grok Academy** cours
 - Answers to several Grok courses (e.g. Intro to Python, Micro:bit).
 - For block-based courses, where code cannot be easily copied, **screenshots** of the correct blocks have been added instead.
 - For certain courses they are identical apart from one being block code and the other being python in such occurences they have been seperated by the suffix at the end. Either -Blockly or -Python
+  -- For certain courses there is a playground section at the end i have not provided answers to those as it can be any piece of code.
 
 ---
 
