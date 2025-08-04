@@ -1,0 +1,9 @@
+Which of the following code snippets will correctly display Plants ❤️ sunshine! on the micro:bit's LEDs?
+
+
+from microbit import *
+
+display.scroll('Plants')
+display.show(Image.HEART)
+sleep(1000)
+display.scroll('sunshine!')
